@@ -1,0 +1,96 @@
+.App {
+  max-width: 800px;
+  margin: 30px auto;
+  text-align: center;
+}
+
+.header {
+  background: steelblue;
+  color: #fff;
+  margin-bottom: 20px;
+  padding: 10px;
+  border-radius: 3px;
+}
+
+.header h2 {
+  margin-top: 0;
+}
+
+.header button {
+  padding: 10px;
+  margin: 0 10px;
+}
+
+.header a,
+.header a:visited {
+  color: #fff;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.question-container {
+  background: steelblue;
+  color: #fff;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 3px;
+}
+
+.question-container a {
+  color: grey;
+  text-decoration: none;
+  font-size: 18px;
+  display: block;
+}
+
+.question-header {
+  text-transform: uppercase;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.question-container button {
+  float: right;
+  margin-left: 10px;
+}
+
+input {
+  box-sizing: border-box;
+  border: solid 1px #fff;
+  padding: 6px;
+  border-radius: 3px;
+  width: 100%;
+}
+
+button {
+  border: solid 1px #aaa;
+  background: rgb(45, 104, 153);
+  color: #fff;
+  border-radius: 3px;
+}
+
+button:hover {
+  background: orange;
+  color: #fff;
+}
+
+.question {
+  font-weight: bold;
+  font-size: larger;
+  margin-bottom: 20px;
+}
+
+.answer {
+  background-color: rgb(45, 104, 153);
+  color: #fff;
+  font-weight: bold;
+  border-radius: 3px;
+  padding: 10px;
+  margin-top: 10px;
+}
+
+.correct {
+  background-color: lightgreen;
+  color: #333;
+  font-weight: bold;
+}
