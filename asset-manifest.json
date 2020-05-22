@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/quiz-generator-for-kahoot/static/css/main.2a5f19be.chunk.css",
+    "main.js": "/quiz-generator-for-kahoot/static/js/main.d961fe6f.chunk.js",
+    "main.js.map": "/quiz-generator-for-kahoot/static/js/main.d961fe6f.chunk.js.map",
+    "runtime-main.js": "/quiz-generator-for-kahoot/static/js/runtime-main.e8f9bde5.js",
+    "runtime-main.js.map": "/quiz-generator-for-kahoot/static/js/runtime-main.e8f9bde5.js.map",
+    "static/js/2.404bfe99.chunk.js": "/quiz-generator-for-kahoot/static/js/2.404bfe99.chunk.js",
+    "static/js/2.404bfe99.chunk.js.map": "/quiz-generator-for-kahoot/static/js/2.404bfe99.chunk.js.map",
+    "index.html": "/quiz-generator-for-kahoot/index.html",
+    "precache-manifest.516e93b099f037575bfa7a585ddb4bd8.js": "/quiz-generator-for-kahoot/precache-manifest.516e93b099f037575bfa7a585ddb4bd8.js",
+    "service-worker.js": "/quiz-generator-for-kahoot/service-worker.js",
+    "static/css/main.2a5f19be.chunk.css.map": "/quiz-generator-for-kahoot/static/css/main.2a5f19be.chunk.css.map",
+    "static/js/2.404bfe99.chunk.js.LICENSE.txt": "/quiz-generator-for-kahoot/static/js/2.404bfe99.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e8f9bde5.js",
+    "static/js/2.404bfe99.chunk.js",
+    "static/css/main.2a5f19be.chunk.css",
+    "static/js/main.d961fe6f.chunk.js"
+  ]
+}
